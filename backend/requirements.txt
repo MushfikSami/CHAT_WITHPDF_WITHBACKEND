@@ -10,3 +10,4 @@ langchain-google-genai
 sentence-transformers
 PyPDF2 
 fasiss-cpu
+prometheus-fastapi-instrumentator
